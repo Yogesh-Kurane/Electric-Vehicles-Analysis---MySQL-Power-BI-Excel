@@ -1,10 +1,20 @@
 # Electric-Vehicles-Analysis 
 Indian EV Market Analysis 🚗⚡ An in-depth analysis of the Indian Electric Vehicle (EV) market, focusing on 2-wheelers and 4-wheelers. This project uses SQL to extract insights on market trends, adoption rates, and sales patterns. Key findings help understand EV growth in India.
 
+📊 Key Objectives
+- Help AtliQ Motors with a detail analysis of the Indian EV/Hybrid market for Mr.Bruce Haryali, Chief of AtliQ Motors India.
+- Analyze and answer all the Preliminary and secondary research questions.
+
 🛠️ Technologies Used
 SQL – For Ad Hoc related queries. 
 Power BI - For generating graphs, charts, reports.
 Excel - For data cleaning, creating tables and validating answers.
+Canva - Pfresentation design.
+
+📜 Dataset Details 
+Source - This project is a part of codebasics's resume project challenge no.12 and its an open source project.
+Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicles_sales_by_state,  electric_vehicles_sales_by_makers 
+ 
 
 📊 Key Insights
 Forecasted Electric vehicles sales.
@@ -18,11 +28,13 @@ SQL Queries – Contains all executed queries for analysis.
 Datasets – Raw and cleaned data used for insights.
 Reports & Visuals – Findings presented using dashboards and reports.
 
+📺 Project Video  
+🎥 Watch the detailed project video presentation here: [Insert LinkedIn or YouTube link] 
 
 🚀 Future Scope
 Expanding analysis with real-time data sources.
 Deeper insights into charging infrastructure and policies.
 Predictive modeling for EV adoption trends.
 
-
-📌 Feel free to explore the repository and contribute!
+📩 Contact & Feedback  
+Feel free to connect with me on **LinkedIn**: https://www.linkedin.com/in/yogeshkurane/
