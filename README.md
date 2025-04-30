@@ -30,7 +30,6 @@ Reports & Visuals – Findings presented using dashboards and reports.
 
 ## 🌐 Live Dashboard
 🔗 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY3NzEyNDMtNjY2ZS00YThjLWFlODEtZmFkNDY4M2VmMTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-*(Replace this link with your live Power BI dashboard URL if hosted online)*
 
 🚀 Future Scope
 Expanding analysis with real-time data sources.
@@ -39,4 +38,4 @@ Predictive modeling for EV adoption trends.
 
 ## 📩 Contact & Feedback  
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/yogeshkurane/)**  
-*(Replace this link with your live Power BI dashboard URL if hosted online)*
+
