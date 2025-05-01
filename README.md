@@ -33,34 +33,34 @@ Easily compare two states side-by-side using key performance indicators such as 
 ---
 
 ## 📜 Dataset Details 
--Source - This project is a part of codebasics's resume project challenge no.12 and its an open source project.
--Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicles_sales_by_state,  electric_vehicles_sales_by_makers 
+- Source - This project is a part of codebasics's resume project challenge no.12 and its an open source project.
+- Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicles_sales_by_state,  electric_vehicles_sales_by_makers 
 
 ---
  
 ## 🔍 Key Insights
-Forecasted Electric vehicles sales.
-Comparison of 2-wheelers and 4-wheelers sales in different states.
-Regional penetration and demand analysis.
-Key factors influencing EV adoption in India.
-Pinpointed the top-performing states and leading manufacturers shaping India’s EV landscape.
-Detected states where EV adoption is slowing down, indicating a need for renewed focus or localized 
-   strategies.
+- Forecasted Electric vehicles sales.
+- Comparison of 2-wheelers and 4-wheelers sales in different states.
+- Regional penetration and demand analysis.
+- Key factors influencing EV adoption in India.
+- Pinpointed the top-performing states and leading manufacturers shaping India’s EV landscape.
+- Detected states where EV adoption is slowing down, indicating a need for renewed focus or localized 
+  strategies.
 
 
 ---
 
 ## 💡 Recommendations
-Prioritize charging infrastructure expansion in high-potential regions to support growing demand.
-Maximize the impact of government incentives by aligning them with outreach and education campaigns.
-Partner with a respected environmental figure to enhance brand trust and promote sustainability.
+- Prioritize charging infrastructure expansion in high-potential regions to support growing demand.
+- Maximize the impact of government incentives by aligning them with outreach and education campaigns.
+- Partner with a respected environmental figure to enhance brand trust and promote sustainability.
 
 ---
 
 ## 📂 Project Structure
-SQL Queries – Contains all executed queries for analysis.
-Datasets – Raw and cleaned data used for insights.
-Reports & Visuals – Findings presented using dashboards and reports.
+- SQL Queries – Contains all executed queries for analysis.
+- Datasets – Raw and cleaned data used for insights.
+- Reports & Visuals – Findings presented using dashboards and reports.
 
 ---
 
@@ -70,9 +70,9 @@ Reports & Visuals – Findings presented using dashboards and reports.
 ---
 
 ## 🚀 Future Scope
-Expanding analysis with real-time data sources.
-Deeper insights into charging infrastructure and policies.
-Predictive modeling for EV adoption trends.
+- Expanding analysis with real-time data sources.
+- Deeper insights into charging infrastructure and policies.
+- Predictive modeling for EV adoption trends.
 
 ---
 
