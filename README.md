@@ -12,29 +12,29 @@ Indian EV Market Analysis 🚗⚡ An in-depth analysis of the Indian Electric Ve
 ---
 
 ## ✨ Key Features
-State-Level Analysis:
+- State-Level Analysis:
 Get a deep dive into EV sales, penetration rates, and CAGR across different states. Identify top-performing regions in both Electric Vehicles (EVs) and Traditional Vehicles (TVs) based on sales trends.
 
-Manufacturer Insights:
+- Manufacturer Insights:
 Analyze the performance of EV makers through metrics like sales volume, revenue, market share, and future projections. Compare EV vs. Non-EV sales, track category-wise trends, and view annual revenue breakdowns.
 
-State Vs State Details:
+- State Vs State Details:
 Easily compare two states side-by-side using key performance indicators such as Revenue, EV & TV Sales, Penetration Rates, and CAGR. A perfect feature for spotting regional opportunities and gaps.
 
 
 ---
 
 ## 🛠️ Technologies Used
-SQL – For Ad Hoc related queries. 
-Power BI - For generating graphs, charts, reports.
-Excel - For data cleaning, creating tables and validating answers.
-Canva - Presentation design.
+- SQL – For Ad Hoc related queries. 
+- Power BI - For generating graphs, charts, reports.
+- Excel - For data cleaning, creating tables and validating answers.
+- Canva - Presentation design.
 
 ---
 
 ## 📜 Dataset Details 
-Source - This project is a part of codebasics's resume project challenge no.12 and its an open source project.
-Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicles_sales_by_state,  electric_vehicles_sales_by_makers 
+-Source - This project is a part of codebasics's resume project challenge no.12 and its an open source project.
+-Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicles_sales_by_state,  electric_vehicles_sales_by_makers 
 
 ---
  
