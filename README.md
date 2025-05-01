@@ -13,7 +13,7 @@ Indian EV Market Analysis 🚗⚡ An in-depth analysis of the Indian Electric Ve
 SQL – For Ad Hoc related queries. 
 Power BI - For generating graphs, charts, reports.
 Excel - For data cleaning, creating tables and validating answers.
-Canva - Pfresentation design.
+Canva - Presentation design.
 
 ---
 
