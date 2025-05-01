@@ -25,11 +25,20 @@ Dataset - The dataset contains 3 different .CSV files (dim_date, electric_vehicl
 
 ---
  
-## 📊 Key Insights
+## 🔍 Key Insights
 Forecasted Electric vehicles sales.
 Comparison of 2-wheelers and 4-wheelers sales in different states.
 Regional penetration and demand analysis.
 Key factors influencing EV adoption in India.
+Pinpointed the top-performing states and leading manufacturers shaping India’s EV landscape.
+Detected states where EV adoption is slowing down, indicating a need for renewed focus or localized strategies.
+
+---
+
+## 💡 Recommendations
+Prioritize charging infrastructure expansion in high-potential regions to support growing demand.
+Maximize the impact of government incentives by aligning them with outreach and education campaigns.
+Partner with a respected environmental figure to enhance brand trust and promote sustainability.
 
 ---
 
